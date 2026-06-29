@@ -42,4 +42,4 @@ All three Hamiltonians are validated against exact sparse diagonalization before
 
 ## Files
 
-- `Enzyme_try_2.ipynb` — main notebook (all three parts + binding energy)
+- `ndm1.ipynb` — main notebook (all three parts + binding energy)
